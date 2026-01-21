@@ -1,4 +1,5 @@
-CSC-481 Team 20 Game Engine Documentation
+## Milestone 1 Game Engine Documentation
+
 Task 1: Core graphics setup is handled by the Engine.h/.cpp files
 
 Task 2: Generic entity system is handled by the Entity.h/.cpp files and used by the Engine files
